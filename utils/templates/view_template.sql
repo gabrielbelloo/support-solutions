@@ -1,0 +1,3 @@
+CREATE OR REPLACE VIEW vw_exemplo AS
+SELECT *
+FROM tabela;
